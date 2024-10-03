@@ -1,5 +1,5 @@
 # URlit
-URlit is a short program in Python to shorten URLs that are longer than typeable limits (via TinyURL)
+URlit is a short program in Python to shorten URLs that are long (via TinyURL)
 
 As you start the script a line appears as below:
 "Enter the url to shorten it: <Long URL>" (Here "Long URL" is the long url you have obtined from a browser directly or got it from elsewhere)
